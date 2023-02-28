@@ -11,6 +11,8 @@ Contract Deployed on: Obscuro Testnet
 
 Contract Deployment Transcation ID: 0x431381d5fe3b189d39cfcbc01906dd5afbe4325f1a00dd5b601433970b57498d
 
+ **NOTE** - `This contract doesnt come with a frontend so line by line comments are added in the contract to ensure that you can easily understand & build the frontend for this contract.`
+
 ## Variables
 
 ### Private Variables
