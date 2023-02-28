@@ -1,5 +1,5 @@
 # Zealed-Auctions
-In a sealed bid auction, bidders privately submit their one best offer in a sealed envelope. The bids are opened privately by the auctioneer and seller.
+In a sealed bid auction, bidders privately submit their best offer in a sealed envelope. The bids are opened privately by the auctioneer and seller. Here users cant see other bid's or the highest bid (until the auction ends).
 
 # Zealed-Auction Contract
 
