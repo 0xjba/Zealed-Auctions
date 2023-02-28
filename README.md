@@ -6,7 +6,9 @@ In a sealed bid auction, bidders privately submit their best offer in a sealed e
 This is a smart contract for a simple bidding auction. It allows bidders to place bids, the highest bidder to withdraw their bid, and the auctioneer to end the auction and send the highest bid to the seller.
 
 Contract Address: 0xD114389e8E2C358CA78C82851d13D9aB1Ff7A4C0
+
 Contract Deployed on: Obscuro Testnet
+
 Contract Deployment Transcation ID: 0x431381d5fe3b189d39cfcbc01906dd5afbe4325f1a00dd5b601433970b57498d
 
 ## Variables
