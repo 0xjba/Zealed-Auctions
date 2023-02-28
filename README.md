@@ -26,6 +26,11 @@ Contract Deployment Transcation ID: **0x431381d5fe3b189d39cfcbc01906dd5afbe4325f
 -   `seller` - the address of the seller
 -   `auctioneer` - the address of the auctioneer
 
+## Mappings
+
+- `_bids`: Private mapping to keep track of each bidder's bid.
+
+
 ## Constructor
 
 ### `constructor(address payable _seller)`
