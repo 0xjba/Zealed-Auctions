@@ -1,4 +1,4 @@
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.4;
 
 contract BiddingAuction {
     // Private variables to track the highest bidder and their bid amount
